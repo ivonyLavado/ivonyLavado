@@ -1,6 +1,9 @@
 👋 Hi, I’m @ivs2702
+
    Email: lavadpivony@gmail.com
+   
    Skills:
+   
    - Social Media Manager
    - Web Developer
    - Html, Css and Javascript
