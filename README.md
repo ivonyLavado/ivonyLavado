@@ -1,6 +1,6 @@
 👋 Hi, I’m @ivs2702
 
-   Email: lavadpivony@gmail.com
+   Email: lavadivony@gmail.com
    
    Skills:
    
